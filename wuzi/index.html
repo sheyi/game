@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>在线五子棋，在线人机五子棋对弈</title>
+<meta name="description" content="一款手机/电脑在线五子棋游戏，在线对战中国五子棋，双人支持对战，人机对战，并且内含360关残棋闯关象棋，支持好友在线对战，免费游玩，无需下载。">
+<meta name="keywords" content="中国象棋,象棋,在线游戏,双人游戏,在线象棋,象棋对弈,邀请好友下象棋,免费游玩,无需下载">
+<link href="css/wuzi.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]>
+<script> alert("对不起，您的浏览器不支持HTML5，请升级浏览器至IE9、firefox或者谷歌浏览器！")</script>
+<![endif]-->
+</head>
+<body>
+	<div class="wuzi-box" id="wuziBox">
+		<canvas id="wuzi" width="620" height="570"></canvas>
+		<div class="bn_box" id="bnBox"> <a id="regretBtn">悔   棋(3)</a> <a id="restartBtn">重新开始</a> <a id="gohomeBtn">返回首页</a> </div>
+	</div>
+	<div class="menu-init" id="menuInit">
+		<div class="menu-info" id="depth">
+			<label>
+				<input name="depth" type="radio" value="0"> 菜鸟水平 </label><br>
+
+			<label>
+				<input name="depth" type="radio" value="1" checked> 中级水平</label><br>
+			<label>
+				<input name="depth" type="radio" value="2"> 高手水平</label>
+		</div>
+		<div class="menu-info" id="offens">
+			<label>
+				<input name="offens" type="radio" value="0" checked> 先手</label>
+			<br />
+			<label>
+				<input name="offens" type="radio" value="1"> 后手</label>
+		</div>
+		<div class="dc"></div>
+		<a id="playBtn" class="btn dc">开始对弈</a> </div>
+	<audio src="audio/click.wav" id="clickAudio" preload="auto"></audio>
+	<audio src="audio/select.wav" id="selectAudio" preload="auto"></audio>
+<script type="text/javascript" src="js/common.js"></script>
+<script type="text/javascript" src="js/play.js"></script>
+<script type="text/javascript" src="js/AI.js"></script>
+</body>
+</html>
