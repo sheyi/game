@@ -1,0 +1,169 @@
+{
+	"meta": {
+		"image": "s105.png",
+		"size": {"w":621,"h":477},
+		"scale": "1"
+	},
+	"frames": {
+		"eft_105_13.png":
+		{
+			"frame": {"x":0,"y":0,"w":166,"h":80},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":7,"y":48,"w":166,"h":80},
+			"sourceSize": {"w":180,"h":180}
+		},
+		"eft_105_12.png":
+		{
+			"frame": {"x":0,"y":80,"w":163,"h":81},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":9,"y":49,"w":163,"h":81},
+			"sourceSize": {"w":180,"h":180}
+		},
+		"eft_105_11.png":
+		{
+			"frame": {"x":166,"y":0,"w":158,"h":75},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":11,"y":54,"w":158,"h":75},
+			"sourceSize": {"w":180,"h":180}
+		},
+		"eft_105_0.png":
+		{
+			"frame": {"x":166,"y":75,"w":156,"h":70},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":12,"y":56,"w":156,"h":70},
+			"sourceSize": {"w":180,"h":180}
+		},
+		"eft_105_9.png":
+		{
+			"frame": {"x":0,"y":161,"w":156,"h":68},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":12,"y":61,"w":156,"h":68},
+			"sourceSize": {"w":180,"h":180}
+		},
+		"eft_105_17.png":
+		{
+			"frame": {"x":0,"y":229,"w":155,"h":92},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":20,"y":45,"w":155,"h":92},
+			"sourceSize": {"w":180,"h":180}
+		},
+		"eft_105_10.png":
+		{
+			"frame": {"x":155,"y":229,"w":155,"h":70},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":13,"y":60,"w":155,"h":70},
+			"sourceSize": {"w":180,"h":180}
+		},
+		"eft_105_1.png":
+		{
+			"frame": {"x":156,"y":161,"w":154,"h":66},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":13,"y":58,"w":154,"h":66},
+			"sourceSize": {"w":180,"h":180}
+		},
+		"eft_105_2.png":
+		{
+			"frame": {"x":324,"y":0,"w":152,"h":62},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":14,"y":60,"w":152,"h":62},
+			"sourceSize": {"w":180,"h":180}
+		},
+		"eft_105_19.png":
+		{
+			"frame": {"x":324,"y":62,"w":148,"h":111},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":21,"y":38,"w":148,"h":111},
+			"sourceSize": {"w":180,"h":180}
+		},
+		"eft_105_5.png":
+		{
+			"frame": {"x":324,"y":173,"w":148,"h":82},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":16,"y":50,"w":148,"h":82},
+			"sourceSize": {"w":180,"h":180}
+		},
+		"eft_105_8.png":
+		{
+			"frame": {"x":0,"y":321,"w":146,"h":74},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":17,"y":54,"w":146,"h":74},
+			"sourceSize": {"w":180,"h":180}
+		},
+		"eft_105_18.png":
+		{
+			"frame": {"x":476,"y":0,"w":145,"h":103},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":20,"y":40,"w":145,"h":103},
+			"sourceSize": {"w":180,"h":180}
+		},
+		"eft_105_6.png":
+		{
+			"frame": {"x":476,"y":103,"w":145,"h":80},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":18,"y":51,"w":145,"h":80},
+			"sourceSize": {"w":180,"h":180}
+		},
+		"eft_105_16.png":
+		{
+			"frame": {"x":476,"y":183,"w":144,"h":87},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":29,"y":48,"w":144,"h":87},
+			"sourceSize": {"w":180,"h":180}
+		},
+		"eft_105_7.png":
+		{
+			"frame": {"x":476,"y":270,"w":143,"h":79},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":18,"y":52,"w":143,"h":79},
+			"sourceSize": {"w":180,"h":180}
+		},
+		"eft_105_3.png":
+		{
+			"frame": {"x":324,"y":255,"w":140,"h":60},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":20,"y":61,"w":140,"h":60},
+			"sourceSize": {"w":180,"h":180}
+		},
+		"eft_105_15.png":
+		{
+			"frame": {"x":0,"y":395,"w":128,"h":82},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":35,"y":49,"w":128,"h":82},
+			"sourceSize": {"w":180,"h":180}
+		},
+		"eft_105_4.png":
+		{
+			"frame": {"x":146,"y":321,"w":115,"h":69},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":33,"y":56,"w":115,"h":69},
+			"sourceSize": {"w":180,"h":180}
+		},
+		"eft_105_14.png":
+		{
+			"frame": {"x":128,"y":395,"w":108,"h":79},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":44,"y":48,"w":108,"h":79},
+			"sourceSize": {"w":180,"h":180}
+		}
+	}
+}

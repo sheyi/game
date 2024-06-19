@@ -1,0 +1,89 @@
+{
+	"meta": {
+		"image": "s104.png",
+		"size": {"w":157,"h":127},
+		"scale": "1"
+	},
+	"frames": {
+		"eft_104_4.png":
+		{
+			"frame": {"x":0,"y":0,"w":42,"h":50},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":0,"y":1,"w":42,"h":50},
+			"sourceSize": {"w":45,"h":57}
+		},
+		"eft_104_1.png":
+		{
+			"frame": {"x":42,"y":0,"w":44,"h":48},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":1,"y":8,"w":44,"h":48},
+			"sourceSize": {"w":45,"h":57}
+		},
+		"eft_104_3.png":
+		{
+			"frame": {"x":86,"y":0,"w":43,"h":48},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":0,"y":6,"w":43,"h":48},
+			"sourceSize": {"w":45,"h":57}
+		},
+		"eft_104_5.png":
+		{
+			"frame": {"x":0,"y":50,"w":38,"h":48},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":0,"y":1,"w":38,"h":48},
+			"sourceSize": {"w":45,"h":57}
+		},
+		"eft_104_2.png":
+		{
+			"frame": {"x":38,"y":50,"w":43,"h":47},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":0,"y":8,"w":43,"h":47},
+			"sourceSize": {"w":45,"h":57}
+		},
+		"eft_104_6.png":
+		{
+			"frame": {"x":81,"y":50,"w":32,"h":44},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":5,"y":0,"w":32,"h":44},
+			"sourceSize": {"w":45,"h":57}
+		},
+		"eft_104_7.png":
+		{
+			"frame": {"x":129,"y":0,"w":28,"h":41},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":5,"y":0,"w":28,"h":41},
+			"sourceSize": {"w":45,"h":57}
+		},
+		"eft_104_8.png":
+		{
+			"frame": {"x":129,"y":41,"w":25,"h":31},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":4,"y":0,"w":25,"h":31},
+			"sourceSize": {"w":45,"h":57}
+		},
+		"eft_104_9.png":
+		{
+			"frame": {"x":0,"y":98,"w":22,"h":29},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":5,"y":0,"w":22,"h":29},
+			"sourceSize": {"w":45,"h":57}
+		},
+		"eft_104_0.png":
+		{
+			"frame": {"x":129,"y":72,"w":21,"h":22},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":24,"y":35,"w":21,"h":22},
+			"sourceSize": {"w":45,"h":57}
+		}
+	}
+}
