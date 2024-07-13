@@ -3,13 +3,13 @@
     "txt_copyright": "© 2000 ELECTRONIC ARTS INC. 保留所有权利",
     "gui:wwbrand": "WESTWOOD STUDIOS™ 是 ELECTRONIC ARTS™ 的品牌",
     "gui:loadingex": "加载中...",
-    "ts:disclaimer": "免责声明：\n\"网页版红警2\" 是一个非盈利的粉丝项目，与 Electronic Arts Inc. 没有任何关联。\n没有侵犯版权的意图。所有权利均归其各自所有者所有。",
+    "ts:disclaimer": "免责声明：\n\"网页版红警2\" 是一个非盈利的粉丝项目，与 Electronic Arts Inc. 没有任何关联。\n无侵犯版权的意图。所有权利均归其各自所有者所有。",
 
     "ts:downloading": "正在下载...",
     "ts:downloadingpg": "正在下载...（%d%%）",
     "ts:downloadfailed": "无法下载远程资源。",
 
-    "ts:gameres_locate_title": "使用原始游戏资源加速（也可以点击右侧X直接开始游戏）",
+    "ts:gameres_locate_title": "请访问 https://higrid.net/game/windows-3F9.html 畅玩无需下载导入！ \n\n 本页使用原始游戏资源加速（也可点击右侧X直接开始游戏）",
     "ts:gameres_import_desc": "如果您已经安装了红色警戒2的副本，您可以在下方导入它。",
     "ts:gameres_drop_desc": "将所需的游戏文件拖放到此处",
     "ts:gameres_or": "或者",
